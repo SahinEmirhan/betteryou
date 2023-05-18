@@ -12,7 +12,7 @@ import {
   } from '@chakra-ui/react'
 function NutritionProgram() {
     return (
-<Container my={5}>
+<Container my={5} width="150vh">
 <TableContainer >
     
     <Table variant='striped' colorScheme='teal'>
